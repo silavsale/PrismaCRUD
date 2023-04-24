@@ -1,0 +1,8 @@
+{
+  // Prettier
+    "editor.formatOnSave": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#2b2a30",
+    "activityBar.foreground": "#fff"
+  }
+}
